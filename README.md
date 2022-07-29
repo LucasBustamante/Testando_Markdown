@@ -1,8 +1,6 @@
 # Aprendendo Markdown 
 ## aula de linguagem markdown
 
-[Topico Clicavel](#Costa)
-
 ---
 Criar linha
 ***
@@ -31,7 +29,7 @@ Lista de tarefas:
 - [ ] teste1
 - [ ] teste2
 
-Texto clicavel:
+Texto clicável:
 
 [Acesse meu GitHub](https://github.com/LucasBustamante)
 
@@ -51,5 +49,7 @@ Lucas
 ## Bustamante
 
 ```print("Hello World")```
+
+[Tópico Clicável](#Aprendendo Markdown)
 
 

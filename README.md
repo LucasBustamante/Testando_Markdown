@@ -1,4 +1,4 @@
-# Aprendendo Markdown 
+# Aprendendo
 ## aula de linguagem markdown
 
 ---
@@ -50,6 +50,6 @@ Lucas
 
 ```print("Hello World")```
 
-[Tópico Clicável](#Aprendendo Markdown)
+[Tópico Clicável](#Aprendendo)
 
 

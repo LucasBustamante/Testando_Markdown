@@ -44,10 +44,6 @@ Comando ou Codigos:
 
 `flutter run`
 
-Lucas
-# Costa
-## Bustamante
-
 ```print("Hello World")```
 
 [Tópico Clicável](#Aprendendo-Markdown)

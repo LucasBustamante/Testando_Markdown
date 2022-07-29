@@ -1,7 +1,7 @@
 # Aprendendo Markdown 
 ## aula de linguagem markdown
 
-[Topico Clicavel](#Lucas)
+[Topico Clicavel](#Costa)
 
 ---
 Criar linha

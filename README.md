@@ -1,6 +1,8 @@
 # Aprendendo Markdown 
 ## aula de linguagem markdown
 
+[Topico Clicavel](#Lucas)
+
 ---
 Criar linha
 ***
@@ -28,3 +30,26 @@ Lista de tarefas:
 - [x] teste
 - [ ] teste1
 - [ ] teste2
+
+Texto clicavel:
+
+[Acesse meu GitHub](https://github.com/LucasBustamante)
+
+Criar tabela:
+
+Num | Nome | Nota
+--- | --- | ---
+1 | Lucas | 10,0
+2 | Bruna | 9,9
+
+Comando ou Codigos:
+
+`flutter run`
+
+Lucas
+# Costa
+## Bustamante
+
+```print("Hello World")```
+
+

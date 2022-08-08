@@ -49,4 +49,5 @@ Comando ou Codigos:
 Tópico Clicável:
 [Tópico Clicável](#Aprendendo-Markdown)
 
+### [Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
